@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/windows/"}
+{"dg-publish":true,"permalink":"/games/windows/","dgShowToc":true}
 ---
 
 ### Roguelike
