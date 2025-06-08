@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://pingu6.github.io/YAGF/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://pingu6.github.io/">
     <title>Digital Garden</title>
-    <link href="https://pingu6.github.io/YAGF//feed.xml" rel="self" >
-    <link href="https://pingu6.github.io/YAGF/" >
-    <updated>2025-06-08T16:04:46Z</updated>
-    <id>https://pingu6.github.io/YAGF/</id>
+    <link href="https://pingu6.github.io//feed.xml" rel="self" >
+    <link href="https://pingu6.github.io/" >
+    <updated>2025-06-08T16:11:06Z</updated>
+    <id>https://pingu6.github.io/</id>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-06-08T16:04:36Z</updated>
-            <id>https://pingu6.github.io/YAGF//</id>
+            <updated>2025-06-08T16:10:49Z</updated>
+            <id>https://pingu6.github.io//</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://pingu6.github.io/img/user/Images/abd6b93cc9ef2594503b26263e418091ca39c4258267a690c04858ae731776c0.jpg&quot; alt=&quot;abd6b93cc9ef2594503b26263e418091ca39c4258267a690c04858ae731776c0.jpg&quot; /&gt;&lt;/p&gt;
 
             </content>
-            <link href="https://pingu6.github.io/YAGF//" >
+            <link href="https://pingu6.github.io//" >
         </entry>
         <entry>
             <title>
                 DC++
                 
             </title>
-            <updated>2025-06-08T16:04:36Z</updated>
-            <id>https://pingu6.github.io/YAGF//yagf/dc/</id>
+            <updated>2025-06-08T16:10:49Z</updated>
+            <id>https://pingu6.github.io//yagf/dc/</id>
             <content type="html">
                 &lt;p&gt;DC++ is the &lt;strong&gt;BEST&lt;/strong&gt; place to download Comics.&lt;/p&gt;
 &lt;ol&gt;
@@ -43,6 +43,6 @@
 &lt;/ol&gt;
 
             </content>
-            <link href="https://pingu6.github.io/YAGF//yagf/dc/" >
+            <link href="https://pingu6.github.io//yagf/dc/" >
         </entry>
 </feed>
