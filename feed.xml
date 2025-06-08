@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://pingu6.github.io/YAGF/">
+    <title>Digital Garden</title>
+    <link href="https://pingu6.github.io/YAGF//feed.xml" rel="self" >
+    <link href="https://pingu6.github.io/YAGF/" >
+    <updated>2025-06-08T15:53:11Z</updated>
+    <id>https://pingu6.github.io/YAGF/</id>
+        <entry>
+            <title>
+                Home
+                
+            </title>
+            <updated>2025-06-08T15:52:58Z</updated>
+            <id>https://pingu6.github.io/YAGF//</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://pingu6.github.io/img/user/Images/abd6b93cc9ef2594503b26263e418091ca39c4258267a690c04858ae731776c0.jpg&quot; alt=&quot;abd6b93cc9ef2594503b26263e418091ca39c4258267a690c04858ae731776c0.jpg&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://pingu6.github.io/YAGF//" >
+        </entry>
+        <entry>
+            <title>
+                DC++
+                
+            </title>
+            <updated>2025-06-08T15:52:58Z</updated>
+            <id>https://pingu6.github.io/YAGF//dc/</id>
+            <content type="html">
+                &lt;p&gt;DC++ is the &lt;strong&gt;BEST&lt;/strong&gt; place to download Comics.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download &lt;a href=&quot;https://airdcpp.net/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;AirDC++&lt;/a&gt; and install it.&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;Ctrl+Q&lt;/code&gt; and connect to &lt;code&gt;perfection.comichub.org:777&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Type &lt;code&gt;!reg &amp;lt;your password&amp;gt;&lt;/code&gt; (the password must be just numbers and letters, No special characters).&lt;/li&gt;
+&lt;li&gt;Type &lt;code&gt;/fav&lt;/code&gt; to save the hub to your favorite hubs and to auto-connecting at startup.&lt;/li&gt;
+&lt;li&gt;Type &lt;code&gt;!rules&lt;/code&gt;, &lt;code&gt;!faq&lt;/code&gt;, And &lt;code&gt;!42&lt;/code&gt; and read them.&lt;/li&gt;
+&lt;li&gt;Search for these two files and download them:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;A Guide to Fixing Your Repack Filled Share.pdf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;A Simple Guide to Repacks on the Comic Sharing DC++ hubs and How to Avoid Them v1.txt&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Add 5GB of comics to your share (better to just download them from the hub)&lt;/li&gt;
+&lt;/ol&gt;
+
+            </content>
+            <link href="https://pingu6.github.io/YAGF//dc/" >
+        </entry>
+</feed>
