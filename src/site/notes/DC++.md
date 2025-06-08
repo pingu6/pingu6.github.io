@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"YAGF/DC++.md","permalink":"/yagf/dc/"}
+{"dg-publish":true,"permalink":"/dc/"}
 ---
 
 DC++ is the **BEST** place to download Comics.
