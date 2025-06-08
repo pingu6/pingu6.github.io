@@ -3,14 +3,14 @@
     <title>Digital Garden</title>
     <link href="https://pingu6.github.io/YAGF//feed.xml" rel="self" >
     <link href="https://pingu6.github.io/YAGF/" >
-    <updated>2025-06-08T16:01:26Z</updated>
+    <updated>2025-06-08T16:04:46Z</updated>
     <id>https://pingu6.github.io/YAGF/</id>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-06-08T16:01:14Z</updated>
+            <updated>2025-06-08T16:04:36Z</updated>
             <id>https://pingu6.github.io/YAGF//</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://pingu6.github.io/img/user/Images/abd6b93cc9ef2594503b26263e418091ca39c4258267a690c04858ae731776c0.jpg&quot; alt=&quot;abd6b93cc9ef2594503b26263e418091ca39c4258267a690c04858ae731776c0.jpg&quot; /&gt;&lt;/p&gt;
@@ -23,8 +23,8 @@
                 DC++
                 
             </title>
-            <updated>2025-06-08T16:01:14Z</updated>
-            <id>https://pingu6.github.io/YAGF//dc/</id>
+            <updated>2025-06-08T16:04:36Z</updated>
+            <id>https://pingu6.github.io/YAGF//yagf/dc/</id>
             <content type="html">
                 &lt;p&gt;DC++ is the &lt;strong&gt;BEST&lt;/strong&gt; place to download Comics.&lt;/p&gt;
 &lt;ol&gt;
@@ -43,6 +43,6 @@
 &lt;/ol&gt;
 
             </content>
-            <link href="https://pingu6.github.io/YAGF//dc/" >
+            <link href="https://pingu6.github.io/YAGF//yagf/dc/" >
         </entry>
 </feed>
