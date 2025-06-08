@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>android</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
+<script>window.addEventListener("load",(()=>{document.querySelectorAll(".callout").forEach((e=>{const t=getComputedStyle(e).getPropertyValue("--callout-icon"),l=t&&t.trim().replace(/^lucide-/,"");if(l){const t=e.querySelector(".callout-title");if(t){const e=document.createElement("div"),c=document.createElement("i");e.appendChild(c),c.setAttribute("icon-name",l),e.setAttribute("class","callout-icon"),t.insertBefore(e,t.firstChild)}}})),lucide.createIcons(),Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((e=>{e.querySelector(".callout-title").addEventListener("click",(t=>{e.classList.contains("is-collapsed")?e.classList.remove("is-collapsed"):e.classList.add("is-collapsed")}))}))}))</script>
+<script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+<script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" async></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async>
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/obsidian-base.css" rel="stylesheet">
+<link href="/styles/_theme.d92311c2.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<style></style>
+</head>
+<body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section">
+<div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" x-data="{isDesktop: true, showFilesMobile: false}">
+<div x-show.important="!isDesktop" style="display:none">
+<nav class="navbar">
+<div class="navbar-inner">
+<span style="font-size:1.5rem;margin-right:10px" @click="showFilesMobile=!showFilesMobile"><i icon-name="menu"></i></span>
+<a href="/" style="text-decoration:none">
+<h1 style="margin:15px!important">Digital Garden</h1>
+</a>
+</div>
+</nav>
+</div>
+<div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none" class="fullpage-overlay"></div>
+<nav class="filetree-sidebar" x-show.important="isDesktop || showFilesMobile" style="display:none">
+<a href="/" style="text-decoration:none">
+<h1 style="text-align:center">Digital Garden</h1>
+</a>
+<div class="folder" x-data="{isOpen: true}">
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as('games')}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">games</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/32x/">32x </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/android/">android </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/arcade/">arcade </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/atari2600/">atari2600 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/browser/">browser </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/dreamcast/">dreamcast </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/gba/">gba </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/gensis/">gensis </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/mastersystem/">mastersystem </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/n64/">n64 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/nes/">nes </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/opensource/">opensource </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/psx/">psx </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/snes/">snes </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/windows/">windows </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as('guides')}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">guides</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/guides/dc/">DC++ </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/dc/">DC++ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home </a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<main class="content cm-s-obsidian">
+<header>
+<div class="header-meta">
+</div>
+</header>
+<ul>
+<li><a href="https://gitlab.com/Namnodorel/crossandroid" target="_blank" class="external-link">CrossAndroid</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.playfree.penguinjump" target="_blank" class="external-link">Penguin Jump</a></li>
+<li><a href="https://www.mobygames.com/game/123364/air-penguin/" target="_blank" class="external-link">Air Penguin</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ninjakiwi.sasza4" target="_blank" class="external-link">SAS: Zombie Assault 4</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.touchfoo.swordigo" target="_blank" class="external-link">Swordigo</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.disney.WMW" target="_blank" class="external-link">Where's My Water?</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.disney.wheresmywater2_goo" target="_blank" class="external-link">Where's My Water? 2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads" target="_blank" class="external-link">Cut the Rope</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.zeptolab.timetravel.free.google" target="_blank" class="external-link">Cut the Rope: Time Travel</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.rockstargames.gtavc" target="_blank" class="external-link">Grand Theft Auto: Vice City</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.rockstargames.gtasa" target="_blank" class="external-link">Grand Theft Auto: San Andreas</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight" target="_blank" class="external-link">Shadow Fight 2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.klab.bleach" target="_blank" class="external-link">Bleach:Brave Souls</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb" target="_blank" class="external-link">Hill Climb Racing</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.qube.tinyminer" target="_blank" class="external-link">Tiny Miner</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.epacegames.zombiemobile" target="_blank" class="external-link">Zombie Guard</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.preus.PreusZombi" target="_blank" class="external-link">100 DAYS - Zombie Survival</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.aa.generaladaptiveapps" target="_blank" class="external-link">aa</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.preus.PreusZombi" target="_blank" class="external-link">Age of War</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=online.limitless.appleknight.free" target="_blank" class="external-link">Apple Knight Action Platformer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.game.AliensInvasion" target="_blank" class="external-link">Aliens Invasion</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.rovio.angrybirdsgo" target="_blank" class="external-link">Angry Birds Go!</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.rovio.baba" target="_blank" class="external-link">Angry Birds 2</a></li>
+<li><a href="play.google.com/store/apps/details?id=com.amelosinteractive.armor" target="_blank" class="external-link">Armored</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile" target="_blank" class="external-link">Dead Cells</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley" target="_blank" class="external-link">Stardew Valley</a></li>
+<li><a href="https://www.mobygames.com/game/69295/retry/" target="_blank" class="external-link">RETRY</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.volvapps.google.rts" target="_blank" class="external-link">Black Operations</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers" target="_blank" class="external-link">Zombie Catchers : Hunt &amp; sell</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gamedevltd.wwh" target="_blank" class="external-link">World War Heroes — WW2 PvP FPS</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftMTHM" target="_blank" class="external-link">World at Arms</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.pixonic.wwr" target="_blank" class="external-link">War Robots Multiplayer Battles</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftW2HM" target="_blank" class="external-link">War Planet Online: MMO Game</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.obuut.tankio" target="_blank" class="external-link">Tank Raid Online - 3v3 Battles</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.idspe.tanks2" target="_blank" class="external-link">Tanks a Lot - Real-time Brawl</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans" target="_blank" class="external-link">Tap Titans</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans2" target="_blank" class="external-link">Tap Titans 2: Idle Clicker RPG</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.dbs.vertigoracing" target="_blank" class="external-link">Vertigo Racing</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.playrix.township" target="_blank" class="external-link">Township</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.skgames.trafficracer" target="_blank" class="external-link">Traffic Racer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.tankgame.tankhero.en" target="_blank" class="external-link">Tank Hero - Awesome tank war g</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gonzossm.sttt" target="_blank" class="external-link">Suрer Toss The Turtle</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.stove.supertank.google" target="_blank" class="external-link">Super Tank Rumble</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameresort.sz3" target="_blank" class="external-link">Stupid Zombies 3</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.raongames.stickmanandgun2" target="_blank" class="external-link">Stick And Gun2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy" target="_blank" class="external-link">Stick War: Legacy</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight3" target="_blank" class="external-link">Shadow Fight 3 - RPG fighting</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftSXHM" target="_blank" class="external-link">Six-Guns: Gang Showdown</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ninjakiwi.monkeycity" target="_blank" class="external-link">Bloons Monkey City</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.CubeSoftware.BattleOfWarships" target="_blank" class="external-link">Battle of Warships: Online</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=air.com.FDGEntertainment.BloodyHarry" target="_blank" class="external-link">Bloody Harry: Zombie Shooting</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstdbattles" target="_blank" class="external-link">Bloons TD Battles</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.pnixgames.bowlingking" target="_blank" class="external-link">Bowling King</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.headupgames.bridgeconstructorplaygroundfree" target="_blank" class="external-link">Bridge Constructor Playground</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=pl.aidemmedia.RealisticBridge" target="_blank" class="external-link">Bridge Construction Simulator</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA3HM" target="_blank" class="external-link">Brothers in Arms 3</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.kongregate.mobile.burritobison3.google" target="_blank" class="external-link">Burrito Bison: Launcha Libre</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.bz.cd1" target="_blank" class="external-link">Cartoon Defense</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gamevil.cartoonwars.two.global" target="_blank" class="external-link">Cartoon Wars 2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gamevil.cartoonwars3.android.google.global.normal" target="_blank" class="external-link">Cartoon Wars 3</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.westriversw.CatWar2" target="_blank" class="external-link">Cat War2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftCMHM" target="_blank" class="external-link">City Mania: Town Building Game</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.partagames.choppa" target="_blank" class="external-link">Choppa</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.halfbrick.colossatron" target="_blank" class="external-link">Colossatron</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.nordcurrent.canteenhd" target="_blank" class="external-link">Cooking Fever: Restaurant Game</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.bigfishgames.cookingcrazegooglef2p" target="_blank" class="external-link">Cooking Craze: Restaurant Game</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.doublejump.heliumproject" target="_blank" class="external-link">Cosmic Showdown</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.heavyfall.constructioncity2" target="_blank" class="external-link">Construction City 2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.king.crash" target="_blank" class="external-link">Crash Bandicoot: On the Run!</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.Huanghaiqing.crazydrillers" target="_blank" class="external-link">Crazy Driller</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sega.cityrush" target="_blank" class="external-link">Crazy Taxi City Rush</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=ru.iriysoft.cursedtreasure2" target="_blank" class="external-link">Cursed Treasure 2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.halfbrick.dantheman" target="_blank" class="external-link">Dan the Man: Action Platformer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ripplestudio.darzasdominion" target="_blank" class="external-link">Darza's Dominion</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.bulkypix.deadeffect" target="_blank" class="external-link">Dead Effect</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.badflyinteractive.deadeffect2" target="_blank" class="external-link">Dead Effect 2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger" target="_blank" class="external-link">Dead Trigger: Survival Shooter</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2" target="_blank" class="external-link">DEAD TRIGGER 2: Zombie Games</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.icloudzone.DeathMoto3" target="_blank" class="external-link">Death Moto 3 : Fighting Rider</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.wedo1.DeathMoto4" target="_blank" class="external-link">Death Moto 4 : Road Killer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.playcreek.DeathWorm_Free" target="_blank" class="external-link">Death Worm™ - Alien Monster</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.pikpok.dc.play" target="_blank" class="external-link">Doomsday Clicker</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.rebeltwins.dragonhills" target="_blank" class="external-link">Dragon Hills</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ludia.dragons" target="_blank" class="external-link">Dragons: Rise of Berk</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.chillingo.steampunktower.android.rowgplay" target="_blank" class="external-link">Steampunk Tower</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.dobermannstudios.spartanfirefight" target="_blank" class="external-link">Spartan Firefight</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sega.sonic1px" target="_blank" class="external-link">Sonic the Hedgehog Classic</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sega.sonic2.runner" target="_blank" class="external-link">Sonic The Hedgehog 2 Classic</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sega.sonic4episode2" target="_blank" class="external-link">Sonic The Hedgehog 4 Ep. II</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sega.soniccd.classic" target="_blank" class="external-link">Sonic CD Classic</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.bitmango.rolltheballunrollme" target="_blank" class="external-link">Roll the Ball® - slide puzzle</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.blitwise.ptankshd" target="_blank" class="external-link">Pocket Tanks</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.FDGEntertainment.redball4.gp" target="_blank" class="external-link">Red Ball 4</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.spilgames.a10.peacekeeper" target="_blank" class="external-link">Peacekeeper - Trench Defense</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride" target="_blank" class="external-link">Jetpack Joyride</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush" target="_blank" class="external-link">Kingdom Rush Tower Defense TD</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=net.gameduo.madtank" target="_blank" class="external-link">Mad Tank</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.spilgames.mtc" target="_blank" class="external-link">Mad Truck Challenge 4x4 Racing</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.asanteegames.magicrampage" target="_blank" class="external-link">Magic Rampage</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.fingersoft.makemore" target="_blank" class="external-link">Make More! - Idle Manager</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=io.anuke.mindustry" target="_blank" class="external-link">Mindustry</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.dd.mk" target="_blank" class="external-link">Missile Dude RPG : idle hero</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sega.sprint" target="_blank" class="external-link">Sonic Forces: 3D Battle Runner</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.upopa.hopeless" target="_blank" class="external-link">Hopeless: The Dark Cave</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.upopa.hopeless2" target="_blank" class="external-link">Hopeless 2: Cave Escape</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.upopa.hopeless3" target="_blank" class="external-link">Hopeless 3: Dark Hollow Earth</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ubisoft.hungrysharkworld" target="_blank" class="external-link">Hungry Shark World</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=kr.co.mediawork.cannonkingre" target="_blank" class="external-link">Idle Cat Cannon</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.futureplay.city" target="_blank" class="external-link">Idle City Empire</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.fluffyfairygames.idleminertycoon" target="_blank" class="external-link">Idle Miner Tycoon: Gold Games</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.chillingo.incrediblejack.android.rowgplay1" target="_blank" class="external-link">Incredible Jack: Jump &amp; Run</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=air.com.armorgames.infectonator" target="_blank" class="external-link">Infectonator</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.playhardlab.herofactory" target="_blank" class="external-link">Hero Factory - Idle tycoon</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.dnddream.headsoccer.android" target="_blank" class="external-link">Head Soccer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.masomo.headball2" target="_blank" class="external-link">Head Ball 2 - Online Football</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.supercell.hayday" target="_blank" class="external-link">Hay Day</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.wordsmobile.gunship" target="_blank" class="external-link">Gunship Strike 3D</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.pixelstar.GrowTurret" target="_blank" class="external-link">Grow Turret TD : Idle Clicker</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGF2F" target="_blank" class="external-link">Green Farm 3</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGGHM" target="_blank" class="external-link">Gangstar Vegas: World of Crime</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.dirtybit.funrun2" target="_blank" class="external-link">Fun Run 2 - Multiplayer Race</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.funplus.familyfarm" target="_blank" class="external-link">Family Farm Seaside</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.superplanet.evilhunter" target="_blank" class="external-link">Evil Hunter Tycoon</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.pandagames.elemental" target="_blank" class="external-link">Elemental Dungeon - Roguelike</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.notdoppler.earntodie" target="_blank" class="external-link">Earn to Die Rogue</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.notdoppler.earntodierogue" target="_blank" class="external-link">Earn to Die Rogue</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.notdoppler.earntodie2" target="_blank" class="external-link">Earn to Die 2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.altitude.dreamdefense" target="_blank" class="external-link">Dream Defense</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftD4HM" target="_blank" class="external-link">Dungeon Hunter 4</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.Gloft5DHM" target="_blank" class="external-link">Dungeon Hunter 5: Action RPG</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.zeptolab.cats.google" target="_blank" class="external-link">CATS: Crash Arena Turbo Stars</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.zeptolab.thieves.google" target="_blank" class="external-link">King of Thieves</a></li>
+<li><a href="https://theamazingworldofgumball.fandom.com/wiki/Journey_to_the_Moon" target="_blank" class="external-link">Gumball: Journey to the Moon</a></li>
+<li><a href="https://slugterra.fandom.com/wiki/Slugterra:_Slug_It_Out!" target="_blank" class="external-link">Slugterra: Slug It Out!</a></li>
+</ul>
+</main>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
+<script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
+</body>
+</html>

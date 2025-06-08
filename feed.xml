@@ -3,14 +3,980 @@
     <title>Digital Garden</title>
     <link href="https://pingu6.github.io//feed.xml" rel="self" >
     <link href="https://pingu6.github.io/" >
-    <updated>2025-06-08T16:12:10Z</updated>
+    <updated>2025-06-08T18:13:05Z</updated>
     <id>https://pingu6.github.io/</id>
+        <entry>
+            <title>
+                DC++
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//guides/dc/</id>
+            <content type="html">
+                &lt;p&gt;DC++ is the &lt;strong&gt;BEST&lt;/strong&gt; place to download Comics.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download &lt;a href=&quot;https://airdcpp.net/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;AirDC++&lt;/a&gt; and install it.&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;Ctrl+Q&lt;/code&gt; and connect to &lt;code&gt;perfection.comichub.org:777&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Type &lt;code&gt;!reg &amp;lt;your password&amp;gt;&lt;/code&gt; (the password must be just numbers and letters, No special characters).&lt;/li&gt;
+&lt;li&gt;Type &lt;code&gt;/fav&lt;/code&gt; to save the hub to your favorite hubs and to auto-connecting at startup.&lt;/li&gt;
+&lt;li&gt;Type &lt;code&gt;!rules&lt;/code&gt;, &lt;code&gt;!faq&lt;/code&gt;, And &lt;code&gt;!42&lt;/code&gt; and read them.&lt;/li&gt;
+&lt;li&gt;Search for these two files and download them:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;A Guide to Fixing Your Repack Filled Share.pdf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;A Simple Guide to Repacks on the Comic Sharing DC++ hubs and How to Avoid Them v1.txt&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Add 5GB of comics to your share (better to just download them from the hub)&lt;/li&gt;
+&lt;/ol&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//guides/dc/" >
+        </entry>
+        <entry>
+            <title>
+                windows
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/windows/</id>
+            <content type="html">
+                &lt;h3 id=&quot;roguelike&quot; tabindex=&quot;-1&quot;&gt;Roguelike&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Hades&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hades&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Noita&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Noita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Binding_of_Isaac:_Rebirth&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Binding of Isaac: Rebirth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Spelunky&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Spelunky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Spelunky_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Spelunky 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Dead_Cells&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dead Cells&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Enter_the_Gungeon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Enter the Gungeon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/UnderMine&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;UnderMine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Rogue_Legacy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rogue Legacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Rogue_Legacy_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rogue Legacy 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/197757/power-of-ten/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Power of Ten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Tiny_rogues&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tiny rogues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/One_Step_from_Eden&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;One Step from Eden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Wizard_of_Legend&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Wizard of Legend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/179020/rogue-tower/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rogue Tower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cult_of_the_Lamb&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cult of the Lamb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Peglin&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Peglin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Moonlighter&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Moonlighter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Pocket_Rogues&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Pocket Rogues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Eagle_Island&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Eagle Island&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Himno:_The_Silent_Melody&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Himno: The Silent Melody&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Nuclear_Throne&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Nuclear Throne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Skul:_The_Hero_Slayer&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Skul: The Hero Slayer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Downwell&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Downwell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Ants_Took_My_Eyeball&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ants Took My Eyeball&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Sparklite&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sparklite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Blazing_Beaks&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Blazing Beaks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Streets_of_Rogue&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Streets of Rogue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Dead_Estate&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dead Estate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Rising_Hell&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rising Hell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Vagante&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Vagante&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/ScourgeBringer&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;ScourgeBringer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Fury_Unleashed&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fury Unleashed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/9th_Dawn_III&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;9th Dawn III&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2760790/Another_Farm_Roguelike_Rebirth/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Another Farm Roguelike: Rebirth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Astral_Ascent&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Astral Ascent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Atomicrops&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Atomicrops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Backpack_Hero&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Backpack Hero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Balatro&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Balatro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Brotato&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Brotato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2954600/Castle_of_Alchemists_Prologue/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Castle of Alchemists: Prologue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Caveblazers&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Caveblazers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cobalt_Core&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cobalt Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Crypt_of_the_NecroDancer&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crypt of the NecroDancer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Shotgun_King:_The_Final_Checkmate&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shotgun King: The Final Checkmate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/205027/shogun-showdown/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shogun Showdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cataclysm:_Dark_Days_Ahead&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cataclysm: Dark Days Ahead&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://elona.fandom.com/wiki/Elona_Wiki&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Elona&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Nova_Drift&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Nova Drift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/FTL:_Faster_Than_Light&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;FTL: Faster Than Light&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;metroidvania&quot; tabindex=&quot;-1&quot;&gt;Metroidvania&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Hollow_Knight&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hollow Knight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Batbarian:_Testament_of_the_Primordials&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Batbarian: Testament of the Primordials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Blasphemous&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Blasphemous&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Infernax&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Infernax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/HunterX&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;HunterX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Kharon%27s_Crypt_-_Even_Death_May_Die&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kharon&#39;s Crypt - Even Death May Die&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Islets&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Islets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Iconoclasts&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Iconoclasts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Kingdom_Shell&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kingdom Shell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/HAAK&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;HAAK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Catmaze&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Catmaze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Fearmonium&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fearmonium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Haiku,_the_Robot&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Haiku, the Robot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Ender_Lilies:_Quietus_of_the_Knights&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ender Lilies: Quietus of the Knights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152489/bone-appetit/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bone Appetit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Alwa%27s_Awakening&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alwa&#39;s Awakening&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Alwa%27s_Legacy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alwa&#39;s Legacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/158141/ato/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Axiom_Verge&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Axiom Verge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Axiom_Verge_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Axiom Verge 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Tempest_of_the_Heavens_and_Earth&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tempest of the Heavens and Earth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Touhou_Luna_Nights&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Touhou Luna Nights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Messenger&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Messenger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cave_Story%2B&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cave Story+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Timespinner&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Timespinner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Record_of_Lodoss_War:_Deedlit_in_Wonder_Labyrinth&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Record of Lodoss War: Deedlit in Wonder Labyrinth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Environmental_Station_Alpha&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Environmental Station Alpha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Lone_Fungus&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lone Fungus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cathedral&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cathedral&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Carrion&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Carrion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Animal_Well&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Animal Well&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Momodora:_Reverie_under_the_Moonlight&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Momodora: Reverie under the Moonlight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Greak:_Memories_of_Azur&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Greak: Memories of Azur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Death%27s_Gambit&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Death&#39;s Gambit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Berserk_Boy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Berserk Boy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Astalon:_Tears_of_the_Earth&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Astalon: Tears of the Earth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Unsighted&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Unsighted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Last_Faith&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Last Faith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/8Doors:_Arum%27s_Afterlife_Adventure&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;8Doors: Arum&#39;s Afterlife Adventure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2241560/Angels_Gear/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Angel&#39;s Gear&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Aquaria&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Aquaria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/La-Mulana&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;La-Mulana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Rabi-Ribi&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rabi-Ribi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Shantae_and_the_Pirate%27s_Curse&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shantae and the Pirate&#39;s Curse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Rusted_Moss&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rusted Moss&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;platformer&quot; tabindex=&quot;-1&quot;&gt;Platformer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Celeste&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Celeste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Shovel_Knight:_Treasure_Trove&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shovel Knight: Treasure Trove&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Pizza_Tower&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Pizza Tower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Kunai&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kunai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Sands_of_Time&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Prince of Persia: The Sands of Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_Warrior_Within&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Prince of Persia: Warrior Within&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Two_Thrones&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Prince of Persia: The Two Thrones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Prince_of_Persia_(2008)&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Prince of Persia (2008)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Forgotten_Sands&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Prince of Persia: The Forgotten Sands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cyber_Shadow&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cyber Shadow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Sonic_Robo_Blast_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic Robo Blast 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Mr._Bree%2B&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mr. Bree+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Himno&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Himno&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Sanabi&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sanabi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Gravity_Circuit&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Gravity Circuit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Bread_%26_Fred&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bread &amp;amp; Fred&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Momodora_I&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Momodora I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Momodora_II&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Momodora II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Momodora_III&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Momodora III&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Super_Meat_Boy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Meat Boy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Nuclear_Blaze&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Nuclear Blaze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Jump_King&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Jump King&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Getting_Over_It_with_Bennett_Foddy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Getting Over It with Bennett Foddy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/206294/cotton-tale/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cotton Tale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1410070/Bunny_Hop&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bunny Hop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Deneb: Across the Stars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2157130/This_is_Hell/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;This is Hell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/148973/cursed-gem/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cursed Gem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Will_You_Snail%3F&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Will You Snail?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Sonic_Mania&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic Mania&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Spark_the_Electric_Jester&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Spark the Electric Jester&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Freedom_Planet&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Freedom Planet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Freedom_Planet_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Freedom Planet 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Antonblast&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Antonblast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Mirror%27s_Edge&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mirror&#39;s Edge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Psychonauts&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Psychonauts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Wonder_Boy%3A_The_Dragon%27s_Trap&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Wonder Boy: The Dragon&#39;s Trap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Kaze_and_the_Wild_Masks&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kaze and the Wild Masks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Trine_Enchanted_Edition&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Trine Enchanted Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Apotheon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Apotheon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Angry_Video_Game_Nerd_I_%26_II_Deluxe&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Angry Video Game Nerd I &amp;amp; II Deluxe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Giana_Sisters%3A_Twisted_Dreams&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Giana Sisters: Twisted Dreams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Braid&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Braid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;building&quot; tabindex=&quot;-1&quot;&gt;Building&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Factorio&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Factorio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/OpenTTD&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;OpenTTD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Chris_Sawyer%27s_Locomotion&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Chris Sawyer&#39;s Locomotion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/OpenRCT2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;OpenRCT2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/OpenLoco&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;OpenLoco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Factory_Town&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Factory Town&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Fallout_Shelter&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fallout Shelter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Banished&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Banished&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Airport_CEO&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Airport CEO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Atrio:_The_Dark_Wild&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Atrio: The Dark Wild&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Bear_and_Breakfast&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bear and Breakfast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Build-A-Lot&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Build-A-Lot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cosmoteer:_Starship_Architect_%26_Commander&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cosmoteer: Starship Architect &amp;amp; Commander&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Turmoil&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Turmoil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Mindustry&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mindustry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;shooter&quot; tabindex=&quot;-1&quot;&gt;Shooter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Hotline_Miami&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hotline Miami&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Hotline_Miami_2:_Wrong_Number&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hotline Miami 2: Wrong Number&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Max_Payne_3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Max Payne 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/190160/loplight/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Loplight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Broforce&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Broforce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Expendabros&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Expendabros&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Blazing_Chrome&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Blazing Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Mercenary_Kings&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mercenary Kings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;farming&quot; tabindex=&quot;-1&quot;&gt;Farming&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Stardew_Valley&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Stardew Valley&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;survival&quot; tabindex=&quot;-1&quot;&gt;Survival&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Don%27t_Starve&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Don&#39;t Starve&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Don%27t_Starve_Together&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Don&#39;t Starve Together&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/RimWorld&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;RimWorld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Terraria&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Terraria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Starbound&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Starbound&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Forager&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Forager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Evil_Tonight&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Evil Tonight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Core_Keeper&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Core Keeper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Wayward&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Wayward&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Alan_Wake&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alan Wake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/ZERO_Sievert&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;ZERO Sievert&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;puzzle&quot; tabindex=&quot;-1&quot;&gt;Puzzle&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Shovel_Knight_Pocket_Dungeon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shovel Knight Pocket Dungeon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Helltaker&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Helltaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Taiji&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Taiji&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Overloop&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Overloop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Escape_Goat&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Escape Goat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Escape_Goat_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Escape Goat 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Evan%27s_Remains&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Evan&#39;s Remains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Baba_Is_You&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Baba Is You&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Wildfire&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Wildfire&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;adventure&quot; tabindex=&quot;-1&quot;&gt;Adventure&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Black_Skylands&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Black Skylands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/To_the_Moon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;To the Moon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/A_Bird_Story&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;A Bird Story&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Finding_Paradise&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Finding Paradise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Impostor_Factory&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Impostor Factory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Owlboy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Owlboy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Yuppie_Psycho&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Yuppie Psycho&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Eastward&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Eastward&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Turnip_Boy_Commits_Tax_Evasion&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Turnip Boy Commits Tax Evasion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Turnip_Boy_Robs_a_Bank&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Turnip Boy Robs a Bank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2295170/Emberville/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Emberville&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Dr._Langeskov,_The_Tiger,_and_The_Terribly_Cursed_Emerald:_A_Whirlwind_Heist&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/157432/cloud-climber/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cloud Climber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Beyond_Good_%26_Evil&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Beyond Good &amp;amp; Evil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Alice:_Madness_Returns&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alice: Madness Returns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;action&quot; tabindex=&quot;-1&quot;&gt;Action&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Asylum&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Batman: Arkham Asylum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Batman:_Arkham_City&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Batman: Arkham City&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Origins&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Batman: Arkham Origins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Dishonored&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dishonored&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Metro_2033_Redux&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Metro 2033 Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Metro:_Last_Light_Redux&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Metro: Last Light Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Tomb_Raider_(2013)&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tomb Raider (2013)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Katana_Zero&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Katana Zero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Butcher&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Butcher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Saints_Row_IV&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Saints Row IV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Mafia_II:_Definitive_Edition&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mafia II: Definitive Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cuphead&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cuphead&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/197577/lycanthorn-ii-rain-of-beasts/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lycanthorn II: Rain of Beasts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Manhunt&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Manhunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Manhunt_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Manhunt 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Bully:_Scholarship_Edition&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bully: Scholarship Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Metal Gear Rising: Revengeance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Retro_City_Rampage&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Retro City Rampage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/TowerFall_Ascension&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;TowerFall Ascension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/L.A._Noire&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;L.A. Noire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_II&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Assassin&#39;s Creed II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_IV:_Black_Flag&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Assassin&#39;s Creed IV: Black Flag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_Rogue&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Assassin&#39;s Creed Rogue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_Syndicate&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Assassin&#39;s Creed Syndicate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Sleeping_Dogs:_Definitive_Edition&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sleeping Dogs: Definitive Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_III&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Grand Theft Auto III&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto:_Vice_City&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Grand Theft Auto: Vice City&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto:_San_Andreas&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Grand Theft Auto: San Andreas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_IV&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Grand Theft Auto IV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Terminator:_Salvation&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Terminator: Salvation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Kamiko&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kamiko&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/There_Is_No_Light&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;There Is No Light&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Alekhine%27s_Gun&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alekhine&#39;s Gun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Alien_Swarm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alien Swarm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Door_Kickers:_Action_Squad&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Door Kickers: Action Squad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Akane&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Akane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Huntdown&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Huntdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Colt_Canyon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Colt Canyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Saboteur&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Saboteur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Remember_Me&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Remember Me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;action-rpg&quot; tabindex=&quot;-1&quot;&gt;Action RPG&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/CrossCode&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;CrossCode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Hyper_Light_Drifter&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hyper Light Drifter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Fallout_3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fallout 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Fallout:_New_Vegas&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fallout: New Vegas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Graveyard_Keeper&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Graveyard Keeper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Ocean%27s_Heart&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ocean&#39;s Heart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Unsouled&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Unsouled&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Death_Trash&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Death Trash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Chasm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Chasm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Archvale&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Archvale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/ASTLIBRA_Revision&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;ASTLIBRA Revision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Bastion&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bastion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Ys_I_%26_II_Chronicles%2B&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ys I &amp;amp; II Chronicles+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fps&quot; tabindex=&quot;-1&quot;&gt;FPS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Ultrakill&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ultrakill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Rage&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/BioShock&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;BioShock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/BioShock_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;BioShock 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/BioShock_Infinite&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;BioShock Infinite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Vomitoreum&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Vomitoreum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152366/shrine/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shrine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152389/shrine-ii/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shrine II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Battlefield_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Battlefield 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Battlefield:_Bad_Company_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Battlefield: Bad Company 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Battlefield_3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Battlefield 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Crysis&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Crysis_Warhead&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crysis Warhead&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Crysis_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crysis 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Killing_Floor&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Killing Floor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Killing_Floor_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Killing Floor 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Payday:_The_Heist&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Payday: The Heist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Payday_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Payday 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Far_Cry&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Far Cry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Far_Cry_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Far Cry 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Far_Cry_3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Far Cry 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Far_Cry_3_Blood_Dragon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Far Cry 3 Blood Dragon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Just_Cause_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Just Cause 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Ravenfield&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ravenfield&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Wolfenstein:_The_New_Order&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Wolfenstein: The New Order&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Left_4_Dead&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Left 4 Dead&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Left_4_Dead_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Left 4 Dead 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/BattleBit_Remastered&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;BattleBit Remastered&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;rpg&quot; tabindex=&quot;-1&quot;&gt;RPG&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Witcher&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Witcher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Witcher_2:_Assassins_of_Kings&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Witcher 2: Assassins of Kings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Darksiders_Warmastered_Edition&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Darksiders Warmastered Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Darksiders_II:_Deathinitive_Edition&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Darksiders II: Deathinitive Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Tails_Noir&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tails Noir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/229016/arco/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Arco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1796790/Chef_RPG/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Chef RPG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Kingdoms_and_Castles&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kingdoms and Castles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Project_Kat_-_Paper_Lily_Prologue&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Project Kat - Paper Lily Prologue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Travellers_Rest&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Travellers Rest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Undertale&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Undertale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Vampire:_The_Masquerade_-_Bloodlines&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Vampire: The Masquerade - Bloodlines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Blossom_Tales:_The_Sleeping_King&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Blossom Tales: The Sleeping King&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Blossom_Tales_2:_The_Minotaur_Prince&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Blossom Tales 2: The Minotaur Prince&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Dark_Devotion&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dark Devotion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/World_of_Horror&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;World of Horror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/West_of_Loathing&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;West of Loathing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Transistor&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Transistor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Secrets_of_Grindea&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Secrets of Grindea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Drova:_Forsaken_Kin&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Drova: Forsaken Kin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;racing&quot; tabindex=&quot;-1&quot;&gt;Racing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Need for Speed: Underground&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Need for Speed: Underground 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Most_Wanted&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Need for Speed: Most Wanted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Carbon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Need for Speed: Carbon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Hot_Pursuit&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Need for Speed: Hot Pursuit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Shift_2_Unleashed&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shift 2 Unleashed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Most_Wanted_(2012)&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Need for Speed: Most Wanted (2012)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Need_for_Speed_Rivals&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Need for Speed Rivals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Sonic_Robo_Blast_2_Kart&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic Robo Blast 2 Kart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Dr._Robotnik%27s_Ring_Racers&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dr. Robotnik&#39;s Ring Racers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Slipstream&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Slipstream&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Split/Second&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Split/Second&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2824660/Old_School_Rally/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Old School Rally&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/SuperTuxKart&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;SuperTuxKart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Nightmare_Kart&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Nightmare Kart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/OutRun_2006:_Coast_2_Coast&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;OutRun 2006: Coast 2 Coast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Euro_Truck_Simulator&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Euro Truck Simulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Scania_Truck_Driving_Simulator&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Scania Truck Driving Simulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Euro_Truck_Simulator_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Euro Truck Simulator 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Assetto_Corsa&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Assetto Corsa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Simpsons:_Hit_%26_Run&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Simpsons: Hit &amp;amp; Run&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Midnight_Club_II&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Midnight Club II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;jrpg&quot; tabindex=&quot;-1&quot;&gt;JRPG&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Jack_Move&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Jack Move&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/OMORI&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;OMORI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fighting&quot; tabindex=&quot;-1&quot;&gt;Fighting&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Nidhogg&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Nidhogg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Nidhogg_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Nidhogg 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/223506/duelists-of-eden/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Duelists of Eden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_King_of_Fighters_XIII&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The King of Fighters XIII&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Umineko%3A_Golden_Fantasia&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Umineko: Golden Fantasia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;shoot-em-up&quot; tabindex=&quot;-1&quot;&gt;Shoot &#39;Em Up&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Drainus&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Drainus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/215514/angel-at-dusk/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Angel at Dusk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Tonight_We_Riot&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tonight We Riot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Deathsmiles&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Deathsmiles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Taisei_Project&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Taisei Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Crimzon_Clover_World_EXplosion&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crimzon Clover World EXplosion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Jamestown%2B&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Jamestown+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;strategy&quot; tabindex=&quot;-1&quot;&gt;Strategy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Into_the_Breach&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Into the Breach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Escapists_2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Escapists 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Plants_vs._Zombies&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Plants vs. Zombies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/5D_Chess_With_Multiverse_Time_Travel&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;5D Chess With Multiverse Time Travel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Bloons_TD_6&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bloons TD 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cursed_Treasure_2_Ultimate_Edition&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cursed Treasure 2 Ultimate Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Warpips&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Warpips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/They_Are_Billions&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;They Are Billions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2289750/Super_Fantasy_Kingdom/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Fantasy Kingdom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Cortex_Command&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cortex Command&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;idle&quot; tabindex=&quot;-1&quot;&gt;Idle&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Rusty%27s_Retirement&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rusty&#39;s Retirement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/The_Longing&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Longing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;flight&quot; tabindex=&quot;-1&quot;&gt;Flight&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Microsoft_Flight_Simulator_X&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Microsoft Flight Simulator X&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;multiplayer&quot; tabindex=&quot;-1&quot;&gt;Multiplayer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Super_Animal_Royale&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Animal Royale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.saitogames.com/battlepainters/index.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Battle Painters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;cards&quot; tabindex=&quot;-1&quot;&gt;Cards&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Card_Shark&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Card Shark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;hack-and-slash&quot; tabindex=&quot;-1&quot;&gt;Hack and slash&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Crawl&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crawl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;beat-em-up&quot; tabindex=&quot;-1&quot;&gt;Beat &#39;em up&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pcgamingwiki.com/wiki/Teenage_Mutant_Ninja_Turtles:_Shredder%27s_Revenge&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Teenage Mutant Ninja Turtles: Shredder&#39;s Revenge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/windows/" >
+        </entry>
+        <entry>
+            <title>
+                snes
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/snes/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/350&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Teenage Mutant Ninja Turtles IV: Turtles in Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/344&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Contra III: The Alien Wars | Super Probotector: Alien Rebels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/238&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Goof Troop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/940&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1216&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Ghouls &#39;n Ghosts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/snes/" >
+        </entry>
+        <entry>
+            <title>
+                psx
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/psx/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/11336&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alundra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/11240&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Castlevania: Symphony of the Night&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/11345&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Castlevania: Chronicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10434&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crash Bandicoot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10432&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crash Bandicoot 2: Cortex Strikes Back&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/13444&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Pepsiman: The Running Hero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/11252&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Silent Hill&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/psx/" >
+        </entry>
+        <entry>
+            <title>
+                opensource
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/opensource/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.xonotic.org/download/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.xonotic.org/download/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.splashdamage.com/games/wolfenstein-enemy-territory/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.splashdamage.com/games/wolfenstein-enemy-territory/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://freedoom.github.io/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://freedoom.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dhewm3.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://dhewm3.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.warsow.net/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.warsow.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://anuke.itch.io/mindustry&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://anuke.itch.io/mindustry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openhv.itch.io/openhv&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://openhv.itch.io/openhv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jean28518.itch.io/libre-train-sim&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://jean28518.itch.io/libre-train-sim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://supertuxkart.itch.io/supertuxkart&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://supertuxkart.itch.io/supertuxkart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openra.itch.io/openra&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://openra.itch.io/openra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.supertux.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.supertux.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sourceforge.net/projects/extremetuxracer/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://sourceforge.net/projects/extremetuxracer/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.flightgear.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.flightgear.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.veloren.net/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.veloren.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://manasource.itch.io/source-of-mana&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://manasource.itch.io/source-of-mana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://euclidean-whale.itch.io/pixie-wrangler&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://euclidean-whale.itch.io/pixie-wrangler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://danbulant.itch.io/heaventaker&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://danbulant.itch.io/heaventaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://johngabrieluk.itch.io/amaya-maiden-of-the-storm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://johngabrieluk.itch.io/amaya-maiden-of-the-storm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://abunchofhacks.itch.io/epicinium&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://abunchofhacks.itch.io/epicinium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://egordorichev.itch.io/curse-of-the-arrow&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://egordorichev.itch.io/curse-of-the-arrow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://quasilyte.itch.io/roboden&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://quasilyte.itch.io/roboden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://warzone-2100.itch.io/warzone2100&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://warzone-2100.itch.io/warzone2100&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jani-nykanen.itch.io/a-palace-for-fools&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://jani-nykanen.itch.io/a-palace-for-fools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://harmonyhoney.itch.io/tinycrate&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://harmonyhoney.itch.io/tinycrate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://congusbongus.itch.io/cdogs-sdl&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://congusbongus.itch.io/cdogs-sdl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jani-nykanen.itch.io/a-palace-for-fools&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://jani-nykanen.itch.io/a-palace-for-fools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openrct2.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://openrct2.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.openttd.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.openttd.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.simutrans.com/en/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.simutrans.com/en/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play0ad.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://play0ad.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.freeciv.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.freeciv.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hypersomnia.xyz/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://hypersomnia.xyz/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cytopia.itch.io/cytopia&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://cytopia.itch.io/cytopia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://unknown-horizons.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://unknown-horizons.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://corsixth.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://corsixth.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://opentomb.github.io/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://opentomb.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.libretro.com/library/xrick/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://docs.libretro.com/library/xrick/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.freecol.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.freecol.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://freedoom.github.io/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://freedoom.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info&lt;/a&gt; | &lt;a href=&quot;https://www.geocities.ws/zakforradio/sorr.html&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.geocities.ws/zakforradio/sorr.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fun-games-for-all.itch.io/kill-bill&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://fun-games-for-all.itch.io/kill-bill&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/opensource/" >
+        </entry>
+        <entry>
+            <title>
+                nes
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/nes/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1669&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Duck Hunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1472&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;DuckTales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1670&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;DuckTales 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1859&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ninja Gaiden | Shadow Warriors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1857&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ninja Gaiden II: The Dark Sword of Chaos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1858&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ninja Gaiden III: The Ancient Ship of Doom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/4812&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Circus Charlie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1556&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Balloon Fight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1446&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Mario Bros.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1994&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Mario Bros. 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1995&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Mario Bros. 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1794&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Legend of Kage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1526&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Adventure Island&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1524&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Adventure Island II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1447&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Contra | Probotector&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1989&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super C | Probotector II: Return of the Evil Forces&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1648&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Demon Sword&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1743&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ice Climber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1477&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Jackal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/4036&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Road Fighter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1498&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rygar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1454&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Legend of Zelda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/nes/" >
+        </entry>
+        <entry>
+            <title>
+                n64
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/n64/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10113&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Legend of Zelda: Ocarina of Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10075&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Donkey Kong 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10003&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Mario 64&lt;/a&gt;&lt;br /&gt;
+Paper Mario 64, Majora&#39;s Mask, Banjo Kazooie, Diddy Kong Racing, Jet Force Gemini&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/n64/" >
+        </entry>
+        <entry>
+            <title>
+                mastersystem
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/mastersystem/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10015&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Vampire: Master of Darkness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10051&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;After Burner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10016&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Aladdin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10554&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Castle of Illusion starring Mickey Mouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10443&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Deep Duck Trouble starring Donald Duck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10013&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Land of Illusion starring Mickey Mouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10004&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Golden Axe Warrior&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/12653&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Legend of Illusion starring Mickey Mouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10014&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ninja Gaiden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;penguin  Land&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/9962&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic the Hedgehog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10714&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Lucky Dime Caper starring Donald Duck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10009&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Wonder Boy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/mastersystem/" >
+        </entry>
+        <entry>
+            <title>
+                gensis
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/gensis/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/1&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic the Hedgehog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/218&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;QuackShot starring Donald Duck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/282&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Teenage Mutant Ninja Turtles: The Hyperstone Heist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/55&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Streets of Rage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Streets of Rage 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/18&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Golden Axe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/87&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Golden Axe II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/42&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tiny Toon Adventures: Buster&#39;s Hidden Treasure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/168&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Adventures of Batman &amp;amp; Robin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/14&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alien 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/137&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Battletoads&lt;/a&gt; (No human can beat the &lt;code&gt;Turbo Tunnel&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/120&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Contra: Hard Corps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/53&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Comix Zone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/258&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dick Tracy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/11&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Earthworm Jim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/2182&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Earthworm Jim 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/110&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sunset Riders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/287&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rambo III&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/4421&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rolo to the Rescue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/6728&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Spider-Man vs. The Kingpin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10229&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Street Fighter II: Special Champion Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/233&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Taz-Mania&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/4477&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tom and Jerry: Frantic Antics!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/407&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Zombies Ate My Neighbors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/gensis/" >
+        </entry>
+        <entry>
+            <title>
+                gba
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/gba/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/793&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic Advance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/gba/" >
+        </entry>
+        <entry>
+            <title>
+                dreamcast
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/dreamcast/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/3399&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crazy Taxi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/3400&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crazy Taxi 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/3416&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic Adventure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/3417&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic Adventure 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/dreamcast/" >
+        </entry>
+        <entry>
+            <title>
+                browser
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/browser/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a href=&quot;https://flashpointarchive.org/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Flashpoint Archive&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/65943/crypt-raider/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crypt Raider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/70430/bubble-trouble/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bubble Trouble&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://flashpointproject.github.io/flashpoint-database/search/#702e0d12-d2b0-9b94-da75-c35e6704036f&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ed, Edd n Eddy - Cul-de-Sac Smash II: Wheels Of Fury&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/144769/the-forest-temple/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Forest Temple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152411/the-light-temple/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Light Temple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/153020/the-ice-temple/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Ice Temple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/153183/the-crystal-temple/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Crystal Temple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/148890/diepio/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;diep.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/73859/agario/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Agar.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/66091/red-beard-on-gold-hunt/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Red Beard on Gold Hunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152814/alien-abduction/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alien Abduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/35321/the-fancy-pants-adventure-world-1/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Fancy Pants Adventure: World 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/35324/the-fancy-pants-adventure-world-2/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Fancy Pants Adventure: World 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/155905/penguin-diner/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Penguin Diner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/210114/gemcraft-chapter-one-the-forgotten/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;GemCraft: Chapter One - The Forgotten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/54588/kingdom-rush/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kingdom Rush&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/68357/kingdom-rush-frontiers/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kingdom Rush: Frontiers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/68549/cursed-treasure-2-hey-heroes-leave-us-gems-alone/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cursed Treasure 2: Hey! Heroes! Leave Us Gems Alone!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/136017/ultimate-flash-sonic/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ultimate Flash Sonic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/93744/earn-to-die/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Earn to Die&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/93746/earn-to-die-2/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Earn to Die 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/93541/green-farm/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Green Farm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/153763/age-of-war/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Age of War&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/155168/age-of-war-2/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Age of War 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/54855/cactus-mccoy-and-the-curse-of-thorns/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cactus McCoy and the Curse of Thorns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/160900/dexters-laboratory-runaway-robot/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dexter&#39;s Laboratory: Runaway Robot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/68667/gold-miner/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Gold Miner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://flashpointproject.github.io/flashpoint-database/search/#2f9c4a38-f5b4-412c-b912-fafbb761c225&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fleabag vs. Mutt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://flashpointproject.github.io/flashpoint-database/search/#ff42e386-f2d9-4934-95de-15937c833b86&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Park-a-Lot 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://flashpointproject.github.io/flashpoint-database/search/#87bb5983-d02a-43a9-bbbf-fca8f0854d6e&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Into Space!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://flashpointproject.github.io/flashpoint-database/search/#10794ec9-8d8e-d839-3692-405a7401fa48&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Into Space 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/68122/3-foot-ninja/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;3 Foot Ninja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/178003/3-foot-ninja-ii/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;3 Foot Ninja II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/66054/mission-mars/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mission Mars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152660/aqua-energizer/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Aqua Energizer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152905/acnos-energizer/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Acno&#39;s Energizer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152713/alien-clones/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alien Clones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/152708/alien-attack/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alien Attack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/67552/skywire/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Skywire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/35386/dirk-valentine-and-the-fortress-of-steam/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dirk Valentine and the Fortress of Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/19272/dr-carter-and-the-wheels-of-salvation/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dr Carter and the Wheels of Salvation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/34938/bush-shoot-out/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bush Shoot-Out&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/browser/" >
+        </entry>
+        <entry>
+            <title>
+                atari2600
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/atari2600/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/13210&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Jungle Hunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/11611&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;H.E.R.O.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/atari2600/" >
+        </entry>
+        <entry>
+            <title>
+                arcade
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/arcade/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/11771&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Metal Slug 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/12321&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ninja Baseball Bat Man&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/11801&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Blue&#39;s Journey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/12139&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Galaxian&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/arcade/" >
+        </entry>
+        <entry>
+            <title>
+                android
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/android/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://gitlab.com/Namnodorel/crossandroid&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;CrossAndroid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.playfree.penguinjump&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Penguin Jump&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/123364/air-penguin/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Air Penguin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ninjakiwi.sasza4&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;SAS: Zombie Assault 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.touchfoo.swordigo&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Swordigo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.disney.WMW&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Where&#39;s My Water?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.disney.wheresmywater2_goo&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Where&#39;s My Water? 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cut the Rope&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zeptolab.timetravel.free.google&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cut the Rope: Time Travel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rockstargames.gtavc&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Grand Theft Auto: Vice City&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rockstargames.gtasa&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Grand Theft Auto: San Andreas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.nekki.shadowfight&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shadow Fight 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.klab.bleach&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bleach:Brave Souls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hill Climb Racing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.qube.tinyminer&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tiny Miner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.epacegames.zombiemobile&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Zombie Guard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.preus.PreusZombi&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;100 DAYS - Zombie Survival&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.aa.generaladaptiveapps&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;aa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.preus.PreusZombi&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Age of War&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=online.limitless.appleknight.free&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Apple Knight Action Platformer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.game.AliensInvasion&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Aliens Invasion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rovio.angrybirdsgo&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Angry Birds Go!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rovio.baba&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Angry Birds 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pingu6.github.io/play.google.com/store/apps/details?id=com.amelosinteractive.armor&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Armored&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dead Cells&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Stardew Valley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mobygames.com/game/69295/retry/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;RETRY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.volvapps.google.rts&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Black Operations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Zombie Catchers : Hunt &amp;amp; sell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gamedevltd.wwh&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;World War Heroes — WW2 PvP FPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftMTHM&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;World at Arms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pixonic.wwr&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;War Robots Multiplayer Battles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftW2HM&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;War Planet Online: MMO Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.obuut.tankio&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tank Raid Online - 3v3 Battles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.idspe.tanks2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tanks a Lot - Real-time Brawl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tap Titans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tap Titans 2: Idle Clicker RPG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dbs.vertigoracing&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Vertigo Racing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.playrix.township&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Township&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.skgames.trafficracer&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Traffic Racer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.tankgame.tankhero.en&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tank Hero - Awesome tank war g&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gonzossm.sttt&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Suрer Toss The Turtle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.stove.supertank.google&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Super Tank Rumble&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameresort.sz3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Stupid Zombies 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.raongames.stickmanandgun2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Stick And Gun2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Stick War: Legacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.nekki.shadowfight3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Shadow Fight 3 - RPG fighting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftSXHM&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Six-Guns: Gang Showdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ninjakiwi.monkeycity&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bloons Monkey City&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.CubeSoftware.BattleOfWarships&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Battle of Warships: Online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=air.com.FDGEntertainment.BloodyHarry&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bloody Harry: Zombie Shooting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstdbattles&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bloons TD Battles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pnixgames.bowlingking&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bowling King&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.headupgames.bridgeconstructorplaygroundfree&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bridge Constructor Playground&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=pl.aidemmedia.RealisticBridge&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bridge Construction Simulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA3HM&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Brothers in Arms 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.kongregate.mobile.burritobison3.google&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Burrito Bison: Launcha Libre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bz.cd1&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cartoon Defense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gamevil.cartoonwars.two.global&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cartoon Wars 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gamevil.cartoonwars3.android.google.global.normal&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cartoon Wars 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.westriversw.CatWar2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cat War2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftCMHM&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;City Mania: Town Building Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.partagames.choppa&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Choppa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.halfbrick.colossatron&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Colossatron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.nordcurrent.canteenhd&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cooking Fever: Restaurant Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bigfishgames.cookingcrazegooglef2p&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cooking Craze: Restaurant Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.doublejump.heliumproject&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cosmic Showdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.heavyfall.constructioncity2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Construction City 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.king.crash&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crash Bandicoot: On the Run!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.Huanghaiqing.crazydrillers&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crazy Driller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sega.cityrush&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Crazy Taxi City Rush&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.iriysoft.cursedtreasure2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Cursed Treasure 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.halfbrick.dantheman&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dan the Man: Action Platformer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ripplestudio.darzasdominion&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Darza&#39;s Dominion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bulkypix.deadeffect&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dead Effect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.badflyinteractive.deadeffect2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dead Effect 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dead Trigger: Survival Shooter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;DEAD TRIGGER 2: Zombie Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.icloudzone.DeathMoto3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Death Moto 3 : Fighting Rider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.wedo1.DeathMoto4&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Death Moto 4 : Road Killer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.playcreek.DeathWorm_Free&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Death Worm™ - Alien Monster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pikpok.dc.play&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Doomsday Clicker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rebeltwins.dragonhills&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dragon Hills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ludia.dragons&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dragons: Rise of Berk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.chillingo.steampunktower.android.rowgplay&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Steampunk Tower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dobermannstudios.spartanfirefight&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Spartan Firefight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sega.sonic1px&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic the Hedgehog Classic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sega.sonic2.runner&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic The Hedgehog 2 Classic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sega.sonic4episode2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic The Hedgehog 4 Ep. II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sega.soniccd.classic&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic CD Classic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitmango.rolltheballunrollme&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Roll the Ball® - slide puzzle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.blitwise.ptankshd&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Pocket Tanks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.FDGEntertainment.redball4.gp&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Red Ball 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.spilgames.a10.peacekeeper&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Peacekeeper - Trench Defense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Jetpack Joyride&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Kingdom Rush Tower Defense TD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=net.gameduo.madtank&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mad Tank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.spilgames.mtc&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mad Truck Challenge 4x4 Racing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.asanteegames.magicrampage&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Magic Rampage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.fingersoft.makemore&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Make More! - Idle Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=io.anuke.mindustry&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Mindustry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dd.mk&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Missile Dude RPG : idle hero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sega.sprint&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sonic Forces: 3D Battle Runner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.upopa.hopeless&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hopeless: The Dark Cave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.upopa.hopeless2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hopeless 2: Cave Escape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.upopa.hopeless3&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hopeless 3: Dark Hollow Earth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ubisoft.hungrysharkworld&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hungry Shark World&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=kr.co.mediawork.cannonkingre&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Idle Cat Cannon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.futureplay.city&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Idle City Empire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.fluffyfairygames.idleminertycoon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Idle Miner Tycoon: Gold Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.chillingo.incrediblejack.android.rowgplay1&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Incredible Jack: Jump &amp;amp; Run&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=air.com.armorgames.infectonator&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Infectonator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.playhardlab.herofactory&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hero Factory - Idle tycoon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dnddream.headsoccer.android&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Head Soccer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.masomo.headball2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Head Ball 2 - Online Football&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.supercell.hayday&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Hay Day&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.wordsmobile.gunship&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Gunship Strike 3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pixelstar.GrowTurret&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Grow Turret TD : Idle Clicker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGF2F&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Green Farm 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGGHM&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Gangstar Vegas: World of Crime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dirtybit.funrun2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fun Run 2 - Multiplayer Race&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.funplus.familyfarm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Family Farm Seaside&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.superplanet.evilhunter&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Evil Hunter Tycoon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pandagames.elemental&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Elemental Dungeon - Roguelike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.notdoppler.earntodie&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Earn to Die Rogue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.notdoppler.earntodierogue&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Earn to Die Rogue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.notdoppler.earntodie2&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Earn to Die 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.altitude.dreamdefense&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dream Defense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftD4HM&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dungeon Hunter 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.Gloft5DHM&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dungeon Hunter 5: Action RPG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zeptolab.cats.google&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;CATS: Crash Arena Turbo Stars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zeptolab.thieves.google&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;King of Thieves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://theamazingworldofgumball.fandom.com/wiki/Journey_to_the_Moon&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Gumball: Journey to the Moon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slugterra.fandom.com/wiki/Slugterra:_Slug_It_Out!&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Slugterra: Slug It Out!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/android/" >
+        </entry>
+        <entry>
+            <title>
+                32x
+                
+            </title>
+            <updated>2025-06-08T18:12:52Z</updated>
+            <id>https://pingu6.github.io//games/32x/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/14303&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;After Burner Complete&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/12777&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Doom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://retroachievements.org/game/10023&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Knuckles&#39; Chaotix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://pingu6.github.io//games/32x/" >
+        </entry>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-06-08T16:11:53Z</updated>
+            <updated>2025-06-08T18:12:52Z</updated>
             <id>https://pingu6.github.io//</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://pingu6.github.io/img/user/Images/abd6b93cc9ef2594503b26263e418091ca39c4258267a690c04858ae731776c0.jpg&quot; alt=&quot;abd6b93cc9ef2594503b26263e418091ca39c4258267a690c04858ae731776c0.jpg&quot; /&gt;&lt;/p&gt;
@@ -23,7 +989,7 @@
                 DC++
                 
             </title>
-            <updated>2025-06-08T16:11:53Z</updated>
+            <updated>2025-06-08T18:12:52Z</updated>
             <id>https://pingu6.github.io//dc/</id>
             <content type="html">
                 &lt;p&gt;DC++ is the &lt;strong&gt;BEST&lt;/strong&gt; place to download Comics.&lt;/p&gt;

@@ -1,0 +1,572 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>windows</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
+<script>window.addEventListener("load",(()=>{document.querySelectorAll(".callout").forEach((e=>{const t=getComputedStyle(e).getPropertyValue("--callout-icon"),l=t&&t.trim().replace(/^lucide-/,"");if(l){const t=e.querySelector(".callout-title");if(t){const e=document.createElement("div"),c=document.createElement("i");e.appendChild(c),c.setAttribute("icon-name",l),e.setAttribute("class","callout-icon"),t.insertBefore(e,t.firstChild)}}})),lucide.createIcons(),Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((e=>{e.querySelector(".callout-title").addEventListener("click",(t=>{e.classList.contains("is-collapsed")?e.classList.remove("is-collapsed"):e.classList.add("is-collapsed")}))}))}))</script>
+<script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+<script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" async></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async>
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/obsidian-base.css" rel="stylesheet">
+<link href="/styles/_theme.d92311c2.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<style></style>
+</head>
+<body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section">
+<div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" x-data="{isDesktop: true, showFilesMobile: false}">
+<div x-show.important="!isDesktop" style="display:none">
+<nav class="navbar">
+<div class="navbar-inner">
+<span style="font-size:1.5rem;margin-right:10px" @click="showFilesMobile=!showFilesMobile"><i icon-name="menu"></i></span>
+<a href="/" style="text-decoration:none">
+<h1 style="margin:15px!important">Digital Garden</h1>
+</a>
+</div>
+</nav>
+</div>
+<div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none" class="fullpage-overlay"></div>
+<nav class="filetree-sidebar" x-show.important="isDesktop || showFilesMobile" style="display:none">
+<a href="/" style="text-decoration:none">
+<h1 style="text-align:center">Digital Garden</h1>
+</a>
+<div class="folder" x-data="{isOpen: true}">
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as('games')}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">games</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/32x/">32x </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/android/">android </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/arcade/">arcade </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/atari2600/">atari2600 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/browser/">browser </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/dreamcast/">dreamcast </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/gba/">gba </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/gensis/">gensis </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/mastersystem/">mastersystem </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/n64/">n64 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/nes/">nes </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/opensource/">opensource </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/psx/">psx </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/snes/">snes </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/games/windows/">windows </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as('guides')}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">guides</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/guides/dc/">DC++ </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/dc/">DC++ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home </a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<main class="content cm-s-obsidian">
+<header>
+<div class="header-meta">
+</div>
+</header>
+<h3 id="roguelike" tabindex="-1">Roguelike</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Hades" target="_blank" class="external-link">Hades</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Noita" target="_blank" class="external-link">Noita</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Binding_of_Isaac:_Rebirth" target="_blank" class="external-link">The Binding of Isaac: Rebirth</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Spelunky" target="_blank" class="external-link">Spelunky</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Spelunky_2" target="_blank" class="external-link">Spelunky 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Dead_Cells" target="_blank" class="external-link">Dead Cells</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Enter_the_Gungeon" target="_blank" class="external-link">Enter the Gungeon</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/UnderMine" target="_blank" class="external-link">UnderMine</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Rogue_Legacy" target="_blank" class="external-link">Rogue Legacy</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Rogue_Legacy_2" target="_blank" class="external-link">Rogue Legacy 2</a></li>
+<li><a href="https://www.mobygames.com/game/197757/power-of-ten/" target="_blank" class="external-link">Power of Ten</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Tiny_rogues" target="_blank" class="external-link">Tiny rogues</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/One_Step_from_Eden" target="_blank" class="external-link">One Step from Eden</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Wizard_of_Legend" target="_blank" class="external-link">Wizard of Legend</a></li>
+<li><a href="https://www.mobygames.com/game/179020/rogue-tower/" target="_blank" class="external-link">Rogue Tower</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cult_of_the_Lamb" target="_blank" class="external-link">Cult of the Lamb</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Peglin" target="_blank" class="external-link">Peglin</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Moonlighter" target="_blank" class="external-link">Moonlighter</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Pocket_Rogues" target="_blank" class="external-link">Pocket Rogues</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Eagle_Island" target="_blank" class="external-link">Eagle Island</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Himno:_The_Silent_Melody" target="_blank" class="external-link">Himno: The Silent Melody</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Nuclear_Throne" target="_blank" class="external-link">Nuclear Throne</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Skul:_The_Hero_Slayer" target="_blank" class="external-link">Skul: The Hero Slayer</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Downwell" target="_blank" class="external-link">Downwell</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Ants_Took_My_Eyeball" target="_blank" class="external-link">Ants Took My Eyeball</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Sparklite" target="_blank" class="external-link">Sparklite</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Blazing_Beaks" target="_blank" class="external-link">Blazing Beaks</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Streets_of_Rogue" target="_blank" class="external-link">Streets of Rogue</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Dead_Estate" target="_blank" class="external-link">Dead Estate</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Rising_Hell" target="_blank" class="external-link">Rising Hell</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Vagante" target="_blank" class="external-link">Vagante</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/ScourgeBringer" target="_blank" class="external-link">ScourgeBringer</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Fury_Unleashed" target="_blank" class="external-link">Fury Unleashed</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/9th_Dawn_III" target="_blank" class="external-link">9th Dawn III</a></li>
+<li><a href="https://store.steampowered.com/app/2760790/Another_Farm_Roguelike_Rebirth/" target="_blank" class="external-link">Another Farm Roguelike: Rebirth</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Astral_Ascent" target="_blank" class="external-link">Astral Ascent</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Atomicrops" target="_blank" class="external-link">Atomicrops</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Backpack_Hero" target="_blank" class="external-link">Backpack Hero</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Balatro" target="_blank" class="external-link">Balatro</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Brotato" target="_blank" class="external-link">Brotato</a></li>
+<li><a href="https://store.steampowered.com/app/2954600/Castle_of_Alchemists_Prologue/" target="_blank" class="external-link">Castle of Alchemists: Prologue</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Caveblazers" target="_blank" class="external-link">Caveblazers</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cobalt_Core" target="_blank" class="external-link">Cobalt Core</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Crypt_of_the_NecroDancer" target="_blank" class="external-link">Crypt of the NecroDancer</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Shotgun_King:_The_Final_Checkmate" target="_blank" class="external-link">Shotgun King: The Final Checkmate</a></li>
+<li><a href="https://www.mobygames.com/game/205027/shogun-showdown/" target="_blank" class="external-link">Shogun Showdown</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cataclysm:_Dark_Days_Ahead" target="_blank" class="external-link">Cataclysm: Dark Days Ahead</a></li>
+<li><a href="https://elona.fandom.com/wiki/Elona_Wiki" target="_blank" class="external-link">Elona</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Nova_Drift" target="_blank" class="external-link">Nova Drift</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/FTL:_Faster_Than_Light" target="_blank" class="external-link">FTL: Faster Than Light</a></li>
+</ul>
+<h3 id="metroidvania" tabindex="-1">Metroidvania</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Hollow_Knight" target="_blank" class="external-link">Hollow Knight</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Batbarian:_Testament_of_the_Primordials" target="_blank" class="external-link">Batbarian: Testament of the Primordials</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Blasphemous" target="_blank" class="external-link">Blasphemous</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Infernax" target="_blank" class="external-link">Infernax</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/HunterX" target="_blank" class="external-link">HunterX</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Kharon%27s_Crypt_-_Even_Death_May_Die" target="_blank" class="external-link">Kharon's Crypt - Even Death May Die</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Islets" target="_blank" class="external-link">Islets</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Iconoclasts" target="_blank" class="external-link">Iconoclasts</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Kingdom_Shell" target="_blank" class="external-link">Kingdom Shell</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/HAAK" target="_blank" class="external-link">HAAK</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Catmaze" target="_blank" class="external-link">Catmaze</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Fearmonium" target="_blank" class="external-link">Fearmonium</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Haiku,_the_Robot" target="_blank" class="external-link">Haiku, the Robot</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Ender_Lilies:_Quietus_of_the_Knights" target="_blank" class="external-link">Ender Lilies: Quietus of the Knights</a></li>
+<li><a href="https://www.mobygames.com/game/152489/bone-appetit/" target="_blank" class="external-link">Bone Appetit</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Alwa%27s_Awakening" target="_blank" class="external-link">Alwa's Awakening</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Alwa%27s_Legacy" target="_blank" class="external-link">Alwa's Legacy</a></li>
+<li><a href="https://www.mobygames.com/game/158141/ato/" target="_blank" class="external-link">Ato</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Axiom_Verge" target="_blank" class="external-link">Axiom Verge</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Axiom_Verge_2" target="_blank" class="external-link">Axiom Verge 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Tempest_of_the_Heavens_and_Earth" target="_blank" class="external-link">Tempest of the Heavens and Earth</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Touhou_Luna_Nights" target="_blank" class="external-link">Touhou Luna Nights</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Messenger" target="_blank" class="external-link">The Messenger</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cave_Story%2B" target="_blank" class="external-link">Cave Story+</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Timespinner" target="_blank" class="external-link">Timespinner</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Record_of_Lodoss_War:_Deedlit_in_Wonder_Labyrinth" target="_blank" class="external-link">Record of Lodoss War: Deedlit in Wonder Labyrinth</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Environmental_Station_Alpha" target="_blank" class="external-link">Environmental Station Alpha</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Lone_Fungus" target="_blank" class="external-link">Lone Fungus</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cathedral" target="_blank" class="external-link">Cathedral</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Carrion" target="_blank" class="external-link">Carrion</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Animal_Well" target="_blank" class="external-link">Animal Well</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Momodora:_Reverie_under_the_Moonlight" target="_blank" class="external-link">Momodora: Reverie under the Moonlight</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Greak:_Memories_of_Azur" target="_blank" class="external-link">Greak: Memories of Azur</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Death%27s_Gambit" target="_blank" class="external-link">Death's Gambit</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Berserk_Boy" target="_blank" class="external-link">Berserk Boy</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Astalon:_Tears_of_the_Earth" target="_blank" class="external-link">Astalon: Tears of the Earth</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Unsighted" target="_blank" class="external-link">Unsighted</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Last_Faith" target="_blank" class="external-link">The Last Faith</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/8Doors:_Arum%27s_Afterlife_Adventure" target="_blank" class="external-link">8Doors: Arum's Afterlife Adventure</a></li>
+<li><a href="https://store.steampowered.com/app/2241560/Angels_Gear/" target="_blank" class="external-link">Angel's Gear</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Aquaria" target="_blank" class="external-link">Aquaria</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/La-Mulana" target="_blank" class="external-link">La-Mulana</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Rabi-Ribi" target="_blank" class="external-link">Rabi-Ribi</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Shantae_and_the_Pirate%27s_Curse" target="_blank" class="external-link">Shantae and the Pirate's Curse</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Rusted_Moss" target="_blank" class="external-link">Rusted Moss</a></li>
+</ul>
+<h3 id="platformer" tabindex="-1">Platformer</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Celeste" target="_blank" class="external-link">Celeste</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Shovel_Knight:_Treasure_Trove" target="_blank" class="external-link">Shovel Knight: Treasure Trove</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Pizza_Tower" target="_blank" class="external-link">Pizza Tower</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Kunai" target="_blank" class="external-link">Kunai</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Sands_of_Time" target="_blank" class="external-link">Prince of Persia: The Sands of Time</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_Warrior_Within" target="_blank" class="external-link">Prince of Persia: Warrior Within</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Two_Thrones" target="_blank" class="external-link">Prince of Persia: The Two Thrones</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Prince_of_Persia_(2008)" target="_blank" class="external-link">Prince of Persia (2008)</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Forgotten_Sands" target="_blank" class="external-link">Prince of Persia: The Forgotten Sands</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cyber_Shadow" target="_blank" class="external-link">Cyber Shadow</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Sonic_Robo_Blast_2" target="_blank" class="external-link">Sonic Robo Blast 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Mr._Bree%2B" target="_blank" class="external-link">Mr. Bree+</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Himno" target="_blank" class="external-link">Himno</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Sanabi" target="_blank" class="external-link">Sanabi</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Gravity_Circuit" target="_blank" class="external-link">Gravity Circuit</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Bread_%26_Fred" target="_blank" class="external-link">Bread &amp; Fred</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Momodora_I" target="_blank" class="external-link">Momodora I</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Momodora_II" target="_blank" class="external-link">Momodora II</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Momodora_III" target="_blank" class="external-link">Momodora III</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Super_Meat_Boy" target="_blank" class="external-link">Super Meat Boy</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Nuclear_Blaze" target="_blank" class="external-link">Nuclear Blaze</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Jump_King" target="_blank" class="external-link">Jump King</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Getting_Over_It_with_Bennett_Foddy" target="_blank" class="external-link">Getting Over It with Bennett Foddy</a></li>
+<li><a href="https://www.mobygames.com/game/206294/cotton-tale/" target="_blank" class="external-link">Cotton Tale</a></li>
+<li><a href="https://store.steampowered.com/app/1410070/Bunny_Hop" target="_blank" class="external-link">Bunny Hop</a></li>
+<li><a href="https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars" target="_blank" class="external-link">Deneb: Across the Stars</a></li>
+<li><a href="https://store.steampowered.com/app/2157130/This_is_Hell/" target="_blank" class="external-link">This is Hell</a></li>
+<li><a href="https://www.mobygames.com/game/148973/cursed-gem/" target="_blank" class="external-link">Cursed Gem</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Will_You_Snail%3F" target="_blank" class="external-link">Will You Snail?</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Sonic_Mania" target="_blank" class="external-link">Sonic Mania</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Spark_the_Electric_Jester" target="_blank" class="external-link">Spark the Electric Jester</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Freedom_Planet" target="_blank" class="external-link">Freedom Planet</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Freedom_Planet_2" target="_blank" class="external-link">Freedom Planet 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Antonblast" target="_blank" class="external-link">Antonblast</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Mirror%27s_Edge" target="_blank" class="external-link">Mirror's Edge</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Psychonauts" target="_blank" class="external-link">Psychonauts</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Wonder_Boy%3A_The_Dragon%27s_Trap" target="_blank" class="external-link">Wonder Boy: The Dragon's Trap</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Kaze_and_the_Wild_Masks" target="_blank" class="external-link">Kaze and the Wild Masks</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Trine_Enchanted_Edition" target="_blank" class="external-link">Trine Enchanted Edition</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Apotheon" target="_blank" class="external-link">Apotheon</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Angry_Video_Game_Nerd_I_%26_II_Deluxe" target="_blank" class="external-link">Angry Video Game Nerd I &amp; II Deluxe</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Giana_Sisters%3A_Twisted_Dreams" target="_blank" class="external-link">Giana Sisters: Twisted Dreams</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Braid" target="_blank" class="external-link">Braid</a></li>
+</ul>
+<h3 id="building" tabindex="-1">Building</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Factorio" target="_blank" class="external-link">Factorio</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/OpenTTD" target="_blank" class="external-link">OpenTTD</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Chris_Sawyer%27s_Locomotion" target="_blank" class="external-link">Chris Sawyer's Locomotion</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/OpenRCT2" target="_blank" class="external-link">OpenRCT2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/OpenLoco" target="_blank" class="external-link">OpenLoco</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Factory_Town" target="_blank" class="external-link">Factory Town</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Fallout_Shelter" target="_blank" class="external-link">Fallout Shelter</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Banished" target="_blank" class="external-link">Banished</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Airport_CEO" target="_blank" class="external-link">Airport CEO</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Atrio:_The_Dark_Wild" target="_blank" class="external-link">Atrio: The Dark Wild</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Bear_and_Breakfast" target="_blank" class="external-link">Bear and Breakfast</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Build-A-Lot" target="_blank" class="external-link">Build-A-Lot</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cosmoteer:_Starship_Architect_%26_Commander" target="_blank" class="external-link">Cosmoteer: Starship Architect &amp; Commander</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Turmoil" target="_blank" class="external-link">Turmoil</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Mindustry" target="_blank" class="external-link">Mindustry</a></li>
+</ul>
+<h3 id="shooter" tabindex="-1">Shooter</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Hotline_Miami" target="_blank" class="external-link">Hotline Miami</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Hotline_Miami_2:_Wrong_Number" target="_blank" class="external-link">Hotline Miami 2: Wrong Number</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Max_Payne_3" target="_blank" class="external-link">Max Payne 3</a></li>
+<li><a href="https://www.mobygames.com/game/190160/loplight/" target="_blank" class="external-link">Loplight</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Broforce" target="_blank" class="external-link">Broforce</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Expendabros" target="_blank" class="external-link">The Expendabros</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Blazing_Chrome" target="_blank" class="external-link">Blazing Chrome</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Mercenary_Kings" target="_blank" class="external-link">Mercenary Kings</a></li>
+</ul>
+<h3 id="farming" tabindex="-1">Farming</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Stardew_Valley" target="_blank" class="external-link">Stardew Valley</a></li>
+</ul>
+<h3 id="survival" tabindex="-1">Survival</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Don%27t_Starve" target="_blank" class="external-link">Don't Starve</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Don%27t_Starve_Together" target="_blank" class="external-link">Don't Starve Together</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/RimWorld" target="_blank" class="external-link">RimWorld</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Terraria" target="_blank" class="external-link">Terraria</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Starbound" target="_blank" class="external-link">Starbound</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Forager" target="_blank" class="external-link">Forager</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Evil_Tonight" target="_blank" class="external-link">Evil Tonight</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Core_Keeper" target="_blank" class="external-link">Core Keeper</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Wayward" target="_blank" class="external-link">Wayward</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Alan_Wake" target="_blank" class="external-link">Alan Wake</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/ZERO_Sievert" target="_blank" class="external-link">ZERO Sievert</a></li>
+</ul>
+<h3 id="puzzle" tabindex="-1">Puzzle</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Shovel_Knight_Pocket_Dungeon" target="_blank" class="external-link">Shovel Knight Pocket Dungeon</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Helltaker" target="_blank" class="external-link">Helltaker</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Taiji" target="_blank" class="external-link">Taiji</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Overloop" target="_blank" class="external-link">Overloop</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Escape_Goat" target="_blank" class="external-link">Escape Goat</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Escape_Goat_2" target="_blank" class="external-link">Escape Goat 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Evan%27s_Remains" target="_blank" class="external-link">Evan's Remains</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Baba_Is_You" target="_blank" class="external-link">Baba Is You</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Wildfire" target="_blank" class="external-link">Wildfire</a></li>
+</ul>
+<h3 id="adventure" tabindex="-1">Adventure</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Black_Skylands" target="_blank" class="external-link">Black Skylands</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/To_the_Moon" target="_blank" class="external-link">To the Moon</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/A_Bird_Story" target="_blank" class="external-link">A Bird Story</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Finding_Paradise" target="_blank" class="external-link">Finding Paradise</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Impostor_Factory" target="_blank" class="external-link">Impostor Factory</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Owlboy" target="_blank" class="external-link">Owlboy</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Yuppie_Psycho" target="_blank" class="external-link">Yuppie Psycho</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Eastward" target="_blank" class="external-link">Eastward</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Turnip_Boy_Commits_Tax_Evasion" target="_blank" class="external-link">Turnip Boy Commits Tax Evasion</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Turnip_Boy_Robs_a_Bank" target="_blank" class="external-link">Turnip Boy Robs a Bank</a></li>
+<li><a href="https://store.steampowered.com/app/2295170/Emberville/" target="_blank" class="external-link">Emberville</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Dr._Langeskov,_The_Tiger,_and_The_Terribly_Cursed_Emerald:_A_Whirlwind_Heist" target="_blank" class="external-link">Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist</a></li>
+<li><a href="https://www.mobygames.com/game/157432/cloud-climber/" target="_blank" class="external-link">Cloud Climber</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Beyond_Good_%26_Evil" target="_blank" class="external-link">Beyond Good &amp; Evil</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Alice:_Madness_Returns" target="_blank" class="external-link">Alice: Madness Returns</a></li>
+</ul>
+<h3 id="action" tabindex="-1">Action</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Asylum" target="_blank" class="external-link">Batman: Arkham Asylum</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Batman:_Arkham_City" target="_blank" class="external-link">Batman: Arkham City</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Origins" target="_blank" class="external-link">Batman: Arkham Origins</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Dishonored" target="_blank" class="external-link">Dishonored</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Metro_2033_Redux" target="_blank" class="external-link">Metro 2033 Redux</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Metro:_Last_Light_Redux" target="_blank" class="external-link">Metro: Last Light Redux</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Tomb_Raider_(2013)" target="_blank" class="external-link">Tomb Raider (2013)</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Katana_Zero" target="_blank" class="external-link">Katana Zero</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Butcher" target="_blank" class="external-link">Butcher</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Saints_Row_IV" target="_blank" class="external-link">Saints Row IV</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Mafia_II:_Definitive_Edition" target="_blank" class="external-link">Mafia II: Definitive Edition</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cuphead" target="_blank" class="external-link">Cuphead</a></li>
+<li><a href="https://www.mobygames.com/game/197577/lycanthorn-ii-rain-of-beasts/" target="_blank" class="external-link">Lycanthorn II: Rain of Beasts</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Manhunt" target="_blank" class="external-link">Manhunt</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Manhunt_2" target="_blank" class="external-link">Manhunt 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Bully:_Scholarship_Edition" target="_blank" class="external-link">Bully: Scholarship Edition</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance" target="_blank" class="external-link">Metal Gear Rising: Revengeance</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Retro_City_Rampage" target="_blank" class="external-link">Retro City Rampage</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/TowerFall_Ascension" target="_blank" class="external-link">TowerFall Ascension</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/L.A._Noire" target="_blank" class="external-link">L.A. Noire</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_II" target="_blank" class="external-link">Assassin's Creed II</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_IV:_Black_Flag" target="_blank" class="external-link">Assassin's Creed IV: Black Flag</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_Rogue" target="_blank" class="external-link">Assassin's Creed Rogue</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_Syndicate" target="_blank" class="external-link">Assassin's Creed Syndicate</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Sleeping_Dogs:_Definitive_Edition" target="_blank" class="external-link">Sleeping Dogs: Definitive Edition</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_III" target="_blank" class="external-link">Grand Theft Auto III</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto:_Vice_City" target="_blank" class="external-link">Grand Theft Auto: Vice City</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto:_San_Andreas" target="_blank" class="external-link">Grand Theft Auto: San Andreas</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_IV" target="_blank" class="external-link">Grand Theft Auto IV</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Terminator:_Salvation" target="_blank" class="external-link">Terminator: Salvation</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Kamiko" target="_blank" class="external-link">Kamiko</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/There_Is_No_Light" target="_blank" class="external-link">There Is No Light</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Alekhine%27s_Gun" target="_blank" class="external-link">Alekhine's Gun</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Alien_Swarm" target="_blank" class="external-link">Alien Swarm</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Door_Kickers:_Action_Squad" target="_blank" class="external-link">Door Kickers: Action Squad</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Akane" target="_blank" class="external-link">Akane</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Huntdown" target="_blank" class="external-link">Huntdown</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Colt_Canyon" target="_blank" class="external-link">Colt Canyon</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Saboteur" target="_blank" class="external-link">The Saboteur</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Remember_Me" target="_blank" class="external-link">Remember Me</a></li>
+</ul>
+<h3 id="action-rpg" tabindex="-1">Action RPG</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/CrossCode" target="_blank" class="external-link">CrossCode</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Hyper_Light_Drifter" target="_blank" class="external-link">Hyper Light Drifter</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Fallout_3" target="_blank" class="external-link">Fallout 3</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Fallout:_New_Vegas" target="_blank" class="external-link">Fallout: New Vegas</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Graveyard_Keeper" target="_blank" class="external-link">Graveyard Keeper</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Ocean%27s_Heart" target="_blank" class="external-link">Ocean's Heart</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Unsouled" target="_blank" class="external-link">Unsouled</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Death_Trash" target="_blank" class="external-link">Death Trash</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Chasm" target="_blank" class="external-link">Chasm</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Archvale" target="_blank" class="external-link">Archvale</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/ASTLIBRA_Revision" target="_blank" class="external-link">ASTLIBRA Revision</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Bastion" target="_blank" class="external-link">Bastion</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Ys_I_%26_II_Chronicles%2B" target="_blank" class="external-link">Ys I &amp; II Chronicles+</a></li>
+</ul>
+<h3 id="fps" tabindex="-1">FPS</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Ultrakill" target="_blank" class="external-link">Ultrakill</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Rage" target="_blank" class="external-link">Rage</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/BioShock" target="_blank" class="external-link">BioShock</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/BioShock_2" target="_blank" class="external-link">BioShock 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/BioShock_Infinite" target="_blank" class="external-link">BioShock Infinite</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Vomitoreum" target="_blank" class="external-link">Vomitoreum</a></li>
+<li><a href="https://www.mobygames.com/game/152366/shrine/" target="_blank" class="external-link">Shrine</a></li>
+<li><a href="https://www.mobygames.com/game/152389/shrine-ii/" target="_blank" class="external-link">Shrine II</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Battlefield_2" target="_blank" class="external-link">Battlefield 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Battlefield:_Bad_Company_2" target="_blank" class="external-link">Battlefield: Bad Company 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Battlefield_3" target="_blank" class="external-link">Battlefield 3</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Crysis" target="_blank" class="external-link">Crysis</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Crysis_Warhead" target="_blank" class="external-link">Crysis Warhead</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Crysis_2" target="_blank" class="external-link">Crysis 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Killing_Floor" target="_blank" class="external-link">Killing Floor</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Killing_Floor_2" target="_blank" class="external-link">Killing Floor 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Payday:_The_Heist" target="_blank" class="external-link">Payday: The Heist</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Payday_2" target="_blank" class="external-link">Payday 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Far_Cry" target="_blank" class="external-link">Far Cry</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Far_Cry_2" target="_blank" class="external-link">Far Cry 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Far_Cry_3" target="_blank" class="external-link">Far Cry 3</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Far_Cry_3_Blood_Dragon" target="_blank" class="external-link">Far Cry 3 Blood Dragon</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Just_Cause_2" target="_blank" class="external-link">Just Cause 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Ravenfield" target="_blank" class="external-link">Ravenfield</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Wolfenstein:_The_New_Order" target="_blank" class="external-link">Wolfenstein: The New Order</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Left_4_Dead" target="_blank" class="external-link">Left 4 Dead</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Left_4_Dead_2" target="_blank" class="external-link">Left 4 Dead 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/BattleBit_Remastered" target="_blank" class="external-link">BattleBit Remastered</a></li>
+</ul>
+<h3 id="rpg" tabindex="-1">RPG</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Witcher" target="_blank" class="external-link">The Witcher</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Witcher_2:_Assassins_of_Kings" target="_blank" class="external-link">The Witcher 2: Assassins of Kings</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Darksiders_Warmastered_Edition" target="_blank" class="external-link">Darksiders Warmastered Edition</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Darksiders_II:_Deathinitive_Edition" target="_blank" class="external-link">Darksiders II: Deathinitive Edition</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Tails_Noir" target="_blank" class="external-link">Tails Noir</a></li>
+<li><a href="https://www.mobygames.com/game/229016/arco/" target="_blank" class="external-link">Arco</a></li>
+<li><a href="https://store.steampowered.com/app/1796790/Chef_RPG/" target="_blank" class="external-link">Chef RPG</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Kingdoms_and_Castles" target="_blank" class="external-link">Kingdoms and Castles</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Project_Kat_-_Paper_Lily_Prologue" target="_blank" class="external-link">Project Kat - Paper Lily Prologue</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Travellers_Rest" target="_blank" class="external-link">Travellers Rest</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Undertale" target="_blank" class="external-link">Undertale</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Vampire:_The_Masquerade_-_Bloodlines" target="_blank" class="external-link">Vampire: The Masquerade - Bloodlines</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Blossom_Tales:_The_Sleeping_King" target="_blank" class="external-link">Blossom Tales: The Sleeping King</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Blossom_Tales_2:_The_Minotaur_Prince" target="_blank" class="external-link">Blossom Tales 2: The Minotaur Prince</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Dark_Devotion" target="_blank" class="external-link">Dark Devotion</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/World_of_Horror" target="_blank" class="external-link">World of Horror</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/West_of_Loathing" target="_blank" class="external-link">West of Loathing</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Transistor" target="_blank" class="external-link">Transistor</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Secrets_of_Grindea" target="_blank" class="external-link">Secrets of Grindea</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Drova:_Forsaken_Kin" target="_blank" class="external-link">Drova: Forsaken Kin</a></li>
+</ul>
+<h3 id="racing" tabindex="-1">Racing</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground" target="_blank" class="external-link">Need for Speed: Underground</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground_2" target="_blank" class="external-link">Need for Speed: Underground 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Most_Wanted" target="_blank" class="external-link">Need for Speed: Most Wanted</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Carbon" target="_blank" class="external-link">Need for Speed: Carbon</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Hot_Pursuit" target="_blank" class="external-link">Need for Speed: Hot Pursuit</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Shift_2_Unleashed" target="_blank" class="external-link">Shift 2 Unleashed</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Most_Wanted_(2012)" target="_blank" class="external-link">Need for Speed: Most Wanted (2012)</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Need_for_Speed_Rivals" target="_blank" class="external-link">Need for Speed Rivals</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Sonic_Robo_Blast_2_Kart" target="_blank" class="external-link">Sonic Robo Blast 2 Kart</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Dr._Robotnik%27s_Ring_Racers" target="_blank" class="external-link">Dr. Robotnik's Ring Racers</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Slipstream" target="_blank" class="external-link">Slipstream</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Split/Second" target="_blank" class="external-link">Split/Second</a></li>
+<li><a href="https://store.steampowered.com/app/2824660/Old_School_Rally/" target="_blank" class="external-link">Old School Rally</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/SuperTuxKart" target="_blank" class="external-link">SuperTuxKart</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Nightmare_Kart" target="_blank" class="external-link">Nightmare Kart</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/OutRun_2006:_Coast_2_Coast" target="_blank" class="external-link">OutRun 2006: Coast 2 Coast</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Euro_Truck_Simulator" target="_blank" class="external-link">Euro Truck Simulator</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Scania_Truck_Driving_Simulator" target="_blank" class="external-link">Scania Truck Driving Simulator</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Euro_Truck_Simulator_2" target="_blank" class="external-link">Euro Truck Simulator 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Assetto_Corsa" target="_blank" class="external-link">Assetto Corsa</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Simpsons:_Hit_%26_Run" target="_blank" class="external-link">The Simpsons: Hit &amp; Run</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Midnight_Club_II" target="_blank" class="external-link">Midnight Club II</a></li>
+</ul>
+<h3 id="jrpg" tabindex="-1">JRPG</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Jack_Move" target="_blank" class="external-link">Jack Move</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/OMORI" target="_blank" class="external-link">OMORI</a></li>
+</ul>
+<h3 id="fighting" tabindex="-1">Fighting</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Nidhogg" target="_blank" class="external-link">Nidhogg</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Nidhogg_2" target="_blank" class="external-link">Nidhogg 2</a></li>
+<li><a href="https://www.mobygames.com/game/223506/duelists-of-eden/" target="_blank" class="external-link">Duelists of Eden</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_King_of_Fighters_XIII" target="_blank" class="external-link">The King of Fighters XIII</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Umineko%3A_Golden_Fantasia" target="_blank" class="external-link">Umineko: Golden Fantasia</a></li>
+</ul>
+<h3 id="shoot-em-up" tabindex="-1">Shoot 'Em Up</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Drainus" target="_blank" class="external-link">Drainus</a></li>
+<li><a href="https://www.mobygames.com/game/215514/angel-at-dusk/" target="_blank" class="external-link">Angel at Dusk</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Tonight_We_Riot" target="_blank" class="external-link">Tonight We Riot</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Deathsmiles" target="_blank" class="external-link">Deathsmiles</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Taisei_Project" target="_blank" class="external-link">Taisei Project</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Crimzon_Clover_World_EXplosion" target="_blank" class="external-link">Crimzon Clover World EXplosion</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Jamestown%2B" target="_blank" class="external-link">Jamestown+</a></li>
+</ul>
+<h3 id="strategy" tabindex="-1">Strategy</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Into_the_Breach" target="_blank" class="external-link">Into the Breach</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Escapists_2" target="_blank" class="external-link">The Escapists 2</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Plants_vs._Zombies" target="_blank" class="external-link">Plants vs. Zombies</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/5D_Chess_With_Multiverse_Time_Travel" target="_blank" class="external-link">5D Chess With Multiverse Time Travel</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Bloons_TD_6" target="_blank" class="external-link">Bloons TD 6</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cursed_Treasure_2_Ultimate_Edition" target="_blank" class="external-link">Cursed Treasure 2 Ultimate Edition</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Warpips" target="_blank" class="external-link">Warpips</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/They_Are_Billions" target="_blank" class="external-link">They Are Billions</a></li>
+<li><a href="https://store.steampowered.com/app/2289750/Super_Fantasy_Kingdom/" target="_blank" class="external-link">Super Fantasy Kingdom</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/Cortex_Command" target="_blank" class="external-link">Cortex Command</a></li>
+</ul>
+<h3 id="idle" tabindex="-1">Idle</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Rusty%27s_Retirement" target="_blank" class="external-link">Rusty's Retirement</a></li>
+<li><a href="https://www.pcgamingwiki.com/wiki/The_Longing" target="_blank" class="external-link">The Longing</a></li>
+</ul>
+<h3 id="flight" tabindex="-1">Flight</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Microsoft_Flight_Simulator_X" target="_blank" class="external-link">Microsoft Flight Simulator X</a></li>
+</ul>
+<h3 id="multiplayer" tabindex="-1">Multiplayer</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Super_Animal_Royale" target="_blank" class="external-link">Super Animal Royale</a></li>
+<li><a href="http://www.saitogames.com/battlepainters/index.htm" target="_blank" class="external-link">Battle Painters</a></li>
+</ul>
+<h3 id="cards" tabindex="-1">Cards</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Card_Shark" target="_blank" class="external-link">Card Shark</a></li>
+</ul>
+<h3 id="hack-and-slash" tabindex="-1">Hack and slash</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Crawl" target="_blank" class="external-link">Crawl</a></li>
+</ul>
+<h3 id="beat-em-up" tabindex="-1">Beat 'em up</h3>
+<ul>
+<li><a href="https://www.pcgamingwiki.com/wiki/Teenage_Mutant_Ninja_Turtles:_Shredder%27s_Revenge" target="_blank" class="external-link">Teenage Mutant Ninja Turtles: Shredder's Revenge</a></li>
+</ul>
+</main>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
+<script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
+</body>
+</html>
